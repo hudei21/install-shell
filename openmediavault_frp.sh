@@ -15,7 +15,7 @@ program_version="0.15.1"
 program_init="/etc/init.d/frpc"
 program_config_file="frpc.conf"
 program_init_download_url=https://raw.githubusercontent.com/hudei21/openmediavault-frp/master/etc/init.d/frpc
-str_install_shell=https://raw.githubusercontent.com/hudei21/install-shell/master/openmediavault_frps.sh
+str_install_shell=https://raw.githubusercontent.com/hudei21/install-shell/master/openmediavault_frp.sh
 
 shell_update(){
     echo "Check updates for shell..."
